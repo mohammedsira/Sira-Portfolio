@@ -1,8 +1,6 @@
-# Riswan - MERN Full-Stack Developer Portfolio
+# SIRAJ - MERN Full-Stack Developer Portfolio
 
-![Portfolio Banner](./src/assets/Banner.png)  
-
-Welcome to my **personal portfolio**, showcasing my skills and projects as a **MERN Full-Stack Developer**. This portfolio is built using **React**, styled with **TailwindCSS**, and enhanced with **animations** for smooth user experience.  
+ Welcome to my **personal portfolio**, showcasing my skills and projects as a **MERN Full-Stack Developer**. This portfolio is built using **React**, styled with **TailwindCSS**, and enhanced with **animations** for smooth user experience.  
 
 ---
 

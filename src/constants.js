@@ -45,7 +45,7 @@ import hackathon from "./assets/course_image/hackathon.png";
 // Project Section Logo's
 import donor from './assets/work_logo/donor.png';
 import expenses from './assets/work_logo/tracker.png';
-import wearsphere from './assets/work_logo/WearSphere.png';
+import prescripto from './assets/work_logo/Prescripto.png';
 
 
 
@@ -195,7 +195,7 @@ export const projects = [
         id: 0,
         title: "🩸 Open Donors – Blood Donation Platform",
         description: "Open Donors is a web-based blood donation platform designed to connect blood donors with people in need quickly and efficiently. The application helps users find nearby donors based on blood group and contact them during medical emergencies.",
-        tags: ["React.js", "HTML", "CSS", "Bootstrap","Node.js", "Express.js","MongoDB","JWT (JSON Web Token)","Vercel"],
+        tags: ["React.js", "HTML", "CSS", "Bootstrap", "Node.js", "Express.js", "MongoDB", "JWT (JSON Web Token)", "Vercel"],
         github: "https://github.com/mohammedsira/Open-Donors.git",
         webapp: "https://open-donors-g57m.vercel.app/",
         image: donor
@@ -209,18 +209,18 @@ export const projects = [
         tags: ["React", "TailwindCSS", "localStorage", "Chart.js", "Data Visualization"],
         github: "https://github.com/mohammedsira/Expense-Tracker-Mern-main.git",
         webapp: "https://track-yur-expense.netlify.app/",
-        image: expenses, 
+        image: expenses,
     },
 
     {
         id: 2,
-        title: "WearSphere E-Commerce",
+        title: "Prescripto",
         description:
-            "Developed a modern fashion e-commerce website using MERN Stack Product listing, cart management, and smooth checkout flow User- friendly UI focused on performance and usability",
-        tags: ["React.js", "Redux", "Axios", "Tailwind/Bootstrap", "Node.js", "Express.js", "MongoDB", "Mongoose","JWT (JSON Web Tokens)", "Vercel (for now, soon full-stack pipeline)"],
-        github: "https://github.com/mohammedsira/WearSphere-Ecommerce-MERN-master.git",
-        webapp: "https://wearsphere.dakshsawhneyy.online/",
-        image: wearsphere
+            "Prescripto is a full-stack web application designed to make healthcare more accessible by simplifying the process of booking doctor appointments. Prescripto provides an efficient, user-friendly experience for both patients and healthcare providers",
+        tags: ["React.js", "Redux", "Axios", "Tailwind/Bootstrap", "Node.js", "Express.js", "MongoDB", "Mongoose", "JWT (JSON Web Tokens)", "Vercel (for now, soon full-stack pipeline)"],
+        github: "https://github.com/mohammedsira/DoctorAppointment-App.git",
+        webapp: "https://prescripto-frontend-beige.vercel.app/",
+        image: prescripto,
     }
 
 ];

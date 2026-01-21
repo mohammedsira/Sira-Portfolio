@@ -54,8 +54,7 @@ const About = () => {
                                 Helps users manage personal finances effectively
                             </li>
                             <li>
-                                🛍️ <b>WearSphere — E-Commerce Web Application</b> – Product listing, cart management, and smooth checkout flow
-                                User-friendly UI focused on performance and usability
+                                🛍️ <b>Prescripto — Doctor Appointment App </b> –  Prescripto provides an efficient, user-friendly experience for both patients and healthcare providers.
                                 <i> (More exciting projects are on the way!)</i>
                             </li>
                         </ul>
