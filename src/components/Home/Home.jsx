@@ -45,7 +45,7 @@ const About = () => {
                     </p>
                     {/* Resume Button */}
                     <a
-                        href="https://drive.google.com/file/d/1AzN8g-r9rr1e6puZnGFB4azorG-7DX4P/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1PpAnL2ymsrGHH25Bygw4IPgruo5PQueU/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         download
